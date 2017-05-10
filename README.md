@@ -13,7 +13,7 @@ Older versions produce errors.
 
 Clone this repo
 ```bash
-git clone  https://github.com/caritosteph/Angular2MarvelHeroes.git
+git clone https://github.com/caritosteph/Tours-Heros_angular2.git
 ```
 ## Install npm packages
 
