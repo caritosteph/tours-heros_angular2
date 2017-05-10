@@ -1,5 +1,4 @@
-# Marvel Movie
-This application has been building using Angular2 and Marvel API.
+# Tours of Heros
 
 ## Prerequisites
 
